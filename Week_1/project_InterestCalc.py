@@ -27,7 +27,7 @@ def a_plan():
     t = int(input("WHAT IS THE TIME (IN YEARS) :     "))
     r = int(input("WHAT IS THE RATE (IN PERCENTAGE) :     "))
     n = int(input("WHAT IS THE NUMBER OF PERIODS PER YEAR (IN NUMBERS) :     "))
-    a = p * ( (((1 + ((r/100)/n)) ** (n * t)) - 1) / (r/n))
+    a = p * ( (((1 + ((r/100)/n)) ** (n * t)) - 1) / ((r/100)/n))
     print("\n\n     PARAMETERS")
     print("PERIODIC PAYMENT :  ",p,"\nTIME (years) :  ", t, "\nRATE (%) :  ", r,"\nNUMBER OF PERIODS :  ", n)
     print("\n           THE AMOUNT FOR THE ABOVE PARAMETERS IS :  ", round (a, 2), "   (2 d.p)")
