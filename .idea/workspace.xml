@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="319c8bfa-7694-4311-9918-534411d30b33" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Week_1/project_InterestCalc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_1/project_InterestCalc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +33,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.hello_world.executor": "Run",
+    "Python.practice.executor": "Run",
+    "Python.practice4.executor": "Run",
+    "Python.practice5.executor": "Run",
+    "Python.practice6.executor": "Run",
+    "Python.practice7.executor": "Run",
+    "Python.project2.executor": "Run",
     "Python.project_InterestCalc.executor": "Run",
+    "Python.week-2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/USER/f.salimanuCOS102"
+    "last_opened_file_path": "C:/Users/USER/f.salimanuCOS102",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
