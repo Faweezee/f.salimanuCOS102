@@ -1,0 +1,6 @@
+1. Unload the items from the customers cart and scan each item as it is being unloaded
+2. Collect payment from the user
+3. Confirm payment
+4. Give change if necessary
+5. Bag or Pack the goods
+6. Give customer receipt and send them on their way
