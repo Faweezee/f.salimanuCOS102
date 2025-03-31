@@ -1,0 +1,15 @@
+START
+
+1. Define student data as a dictionary
+CREATE students_dictionary
+ADD each student with attributes (name, age, height, score)
+
+2. Print table header
+PRINT "|  NAME    | AGE | HEIGHT | SCORE |"
+PRINT "+----------+-----+--------+-------+"
+
+3. Loop through student records
+FOR each student in students_dictionary DO
+    PRINT student name, age, height, and score in a formatted way
+
+STOP

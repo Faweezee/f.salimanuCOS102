@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="319c8bfa-7694-4311-9918-534411d30b33" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week_2/project2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week_2/project2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,9 @@
     "Python.practice5.executor": "Run",
     "Python.practice6.executor": "Run",
     "Python.practice7.executor": "Run",
+    "Python.practice_1.executor": "Run",
+    "Python.practice_3.executor": "Run",
+    "Python.project1.executor": "Run",
     "Python.project2.executor": "Run",
     "Python.project_InterestCalc.executor": "Run",
     "Python.week-2.executor": "Run",
