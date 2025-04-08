@@ -33,11 +33,18 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.hello_world.executor": "Run",
+    "Python.practice 2.executor": "Run",
+    "Python.practice 4.executor": "Run",
+    "Python.practice 5.executor": "Run",
     "Python.practice.executor": "Run",
+    "Python.practice2.executor": "Run",
+    "Python.practice3.executor": "Run",
     "Python.practice4.executor": "Run",
     "Python.practice5.executor": "Run",
     "Python.practice6.executor": "Run",
     "Python.practice7.executor": "Run",
+    "Python.practice8.executor": "Run",
+    "Python.practice9.executor": "Run",
     "Python.practice_1.executor": "Run",
     "Python.practice_3.executor": "Run",
     "Python.project1.executor": "Run",
