@@ -36,7 +36,9 @@
     "Python.practice 2.executor": "Run",
     "Python.practice 4.executor": "Run",
     "Python.practice 5.executor": "Run",
+    "Python.practice(GUI).executor": "Run",
     "Python.practice.executor": "Run",
+    "Python.practice2(GUI) .executor": "Run",
     "Python.practice2.executor": "Run",
     "Python.practice3.executor": "Run",
     "Python.practice4.executor": "Run",
@@ -53,6 +55,7 @@
     "Python.week-2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/USER/f.salimanuCOS102",
     "settings.editor.selected.configurable": "advanced.settings"
   }
