@@ -30,36 +30,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.hello_world.executor": "Run",
-    "Python.practice 2.executor": "Run",
-    "Python.practice 4.executor": "Run",
-    "Python.practice 5.executor": "Run",
-    "Python.practice(GUI).executor": "Run",
-    "Python.practice.executor": "Run",
-    "Python.practice2(GUI) .executor": "Run",
-    "Python.practice2.executor": "Run",
-    "Python.practice3.executor": "Run",
-    "Python.practice4.executor": "Run",
-    "Python.practice5.executor": "Run",
-    "Python.practice6.executor": "Run",
-    "Python.practice7.executor": "Run",
-    "Python.practice8.executor": "Run",
-    "Python.practice9.executor": "Run",
-    "Python.practice_1.executor": "Run",
-    "Python.practice_3.executor": "Run",
-    "Python.project1.executor": "Run",
-    "Python.project2.executor": "Run",
-    "Python.project_InterestCalc.executor": "Run",
-    "Python.week-2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/USER/f.salimanuCOS102",
-    "settings.editor.selected.configurable": "advanced.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.hello_world.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice 5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice(GUI).executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice2(GUI) .executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.project_InterestCalc.executor&quot;: &quot;Run&quot;,
+    &quot;Python.week-2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/f.salimanuCOS102&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

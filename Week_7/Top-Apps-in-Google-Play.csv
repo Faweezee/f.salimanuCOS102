@@ -1,0 +1,71 @@
+,App Name,App Id,Category,Developer Id,Developer Website,Developer Email,Content Rating,Ad Supported,In App Purchases
+1,Google Play services,com.google.android.gms,Tools,Google LLC,https://developers.google.com/android/google-play-services/,apps-help@google.com,Everyone,False,False
+2,YouTube,com.google.android.youtube,Video Players & Editors,Google LLC,https://support.google.com/youtube/topic/2422554?rd=1,ytandroid-support@google.com,Teen,True,False
+3,Google,com.google.android.googlequicksearchbox,Tools,Google LLC,https://www.google.com/search/about/,apps-help@google.com,Everyone,True,False
+4,Google Maps - Navigate & Explore,com.google.android.apps.maps,Travel & Local,Google LLC,http://maps.google.com/about/,apps-help@google.com,Everyone,True,False
+5,Google Text-to-Speech,com.google.android.tts,Tools,Google LLC,http://www.google.com/,tts-feedback@google.com,Everyone,False,False
+6,Google Chrome: Fast & Secure,com.android.chrome,Communication,Google LLC,http://www.google.com/chrome/android,apps-help@google.com,Everyone,False,False
+7,Gmail,com.google.android.gm,Communication,Google LLC,http://support.google.com/mail/bin/topic.py?hl=en&topic=2451697&parent=2451730&ctx=topic,apps-help@google.com,Everyone,True,False
+8,Android Accessibility Suite,com.google.android.marvin.talkback,Tools,Google LLC,https://developer.android.com/guide/topics/ui/accessibility,apps-help@google.com,Everyone,False,False
+9,Google Drive,com.google.android.apps.docs,Productivity,Google LLC,https://support.google.com/drive/?p=android_drive_help,apps-help@google.com,Everyone,False,True
+10,Facebook,com.facebook.katana,Social,Facebook,https://www.facebook.com/facebook,facebook.android@fb.com,Teen,True,True
+11,WhatsApp Messenger,com.whatsapp,Communication,WhatsApp LLC,http://www.whatsapp.com/,android@support.whatsapp.com,Everyone,False,False
+12,Google TV (previously Play Movies & TV),com.google.android.videos,Video Players & Editors,Google LLC,http://support.google.com/googleplay,apps-help@google.com,Teen,False,False
+13,Google Photos,com.google.android.apps.photos,Photography,Google LLC,https://support.google.com/photos,apps-help@google.com,Everyone,False,False
+14,Messenger – Text and Video Chat for Free,com.facebook.orca,Communication,Facebook,https://www.facebook.com/games/fbmessenger_android/,android-support@fb.com,Everyone,False,True
+15,Hangouts,com.google.android.talk,Communication,Google LLC,https://support.google.com/hangouts/?p=androidhelp,apps-help@google.com,Everyone,False,False
+16,Android System WebView,com.google.android.webview,Tools,Google LLC,http://www.android.com,apps-help@google.com,Everyone,False,False
+17,Google Play Games,com.google.android.play.games,Entertainment,Google LLC,http://play.google.com/store/apps/category/GAME,googleplay-support@google.com,Teen,False,False
+18,Samsung Push Service,com.sec.spp.push,Communication,"Samsung Electronics Co.,  Ltd.",https://samsung.com,noreply.sec@samsung.com,Everyone,False,False
+19,Google Duo - High Quality Video Calls,com.google.android.apps.tachyon,Communication,Google LLC,https://google.com/,apps-help@google.com,Everyone,False,False
+20,Currents,com.google.android.apps.plus,Social,Google LLC,https://support.google.com/plus/?hl=en#topic=6320382,apps-help@google.com,Teen,False,False
+21,Gboard - the Google Keyboard,com.google.android.inputmethod.latin,Tools,Google LLC,https://support.google.com/gboard,gboard-dev-support@google.com,Everyone,False,False
+22,Instagram,com.instagram.android,Social,Instagram,http://help.instagram.com/,android-support@instagram.com,Teen,True,True
+23,"Google Play Books - Ebooks, Audiobooks, and Comics",com.google.android.apps.books,Books & Reference,Google LLC,http://play.google.com/,googleplay-support@google.com,Teen,False,False
+24,Google News - Top world & local news headlines,com.google.android.apps.magazines,News & Magazines,Google LLC,https://news.google.com/about,apps-help@google.com,Teen,True,False
+25,Google Calendar,com.google.android.calendar,Productivity,Google LLC,http://support.google.com/calendar?p=mobilesync,apps-help@google.com,Everyone,False,False
+26,Samsung Internet Browser,com.sec.android.app.sbrowser,Communication,"Samsung Electronics Co.,  Ltd.",http://help.content.samsung.com,noreply.sec@samsung.com,Everyone,False,False
+27,Samsung One UI Home,com.sec.android.app.launcher,Personalization,"Samsung Electronics Co.,  Ltd.",https://samsung.com,noreply.sec@samsung.com,Everyone,False,False
+28,Samsung Gallery,com.sec.android.gallery3d,Photography,"Samsung Electronics Co.,  Ltd.",https://samsung.com,noreply.sec@samsung.com,Everyone,False,False
+29,Facebook Lite,com.facebook.lite,Social,Facebook,https://www.facebook.com/facebook,lite-android-support@fb.com,Teen,True,False
+30,Samsung My Files,com.sec.android.app.myfiles,Tools,"Samsung Electronics Co.,  Ltd.",https://samsung.com,noreply.sec@samsung.com,Everyone,False,False
+31,Microsoft OneDrive,com.microsoft.skydrive,Productivity,Microsoft Corporation,https://aka.ms/OneDriveOnAndroid,odrvhelp@microsoft.com,Everyone,False,True
+32,Android Auto,com.google.android.projection.gearhead,Auto & Vehicles,Google LLC,http://www.android.com/auto,android-auto-app@google.com,Teen,False,False
+33,Messages,com.google.android.apps.messaging,Communication,Google LLC,http://www.google.com/mobile/android/,apps-help@google.com,Everyone,False,False
+34,Carrier Services,com.google.android.ims,Communication,Google LLC,https://google.com/,apps-help@google.com,Everyone,False,False
+35,Skype - free IM & video calls,com.skype.raider,Communication,Skype,http://www.skype.com,skypeuploader@googlemail.com,Everyone,False,False
+36,Google Street View,com.google.android.street,Travel & Local,Google LLC,http://www.google.com/mobile/maps/,apps-help@google.com,Everyone,False,False
+37,Subway Surfers,com.kiloo.subwaysurf,Arcade,SYBO Games,https://sybogames.com/,subwaysurfers@sybo.zendesk.com,Everyone 10+,True,True
+38,Samsung Experience Service,com.samsung.android.mobileservice,Tools,"Samsung Electronics Co.,  Ltd.",http://www.samsung.com/sec/,noreply.sec@samsung.com,Teen,False,False
+39,Device Care,com.samsung.android.lool,Tools,"Samsung Electronics Co.,  Ltd.",https://samsung.com,smart.mngr@samsung.com,Everyone,False,False
+40,SHAREit - Transfer & Share,com.lenovo.anyshare.gps,Tools,Smart Media4U Technology Pte.Ltd.,http://www.ushareit.com,feedback_android@ushareit.com,Everyone,True,True
+41,"Microsoft Word: Write, Edit & Share Docs on the Go",com.microsoft.office.word,Productivity,Microsoft Corporation,https://products.office.com,officean@microsoft.com,Everyone,False,True
+42,TikTok,com.zhiliaoapp.musically,Social,TikTok Pte. Ltd.,https://www.tiktok.com/,feedback@tiktok.com,Teen,True,True
+43,Snapchat,com.snapchat.android,Social,Snap Inc,http://www.snapchat.com,snapchat@snap.com,Teen,True,True
+44,Samsung Email,com.samsung.android.email.provider,Productivity,"Samsung Electronics Co.,  Ltd.",https://samsung.com,b2b.sec@samsung.com,Everyone,False,False
+45,Samsung Calculator,com.sec.android.app.popupcalculator,Tools,"Samsung Electronics Co.,  Ltd.",https://samsung.com,noreply.sec@samsung.com,Everyone,False,False
+46,"Microsoft Excel: View, Edit, & Create Spreadsheets",com.microsoft.office.excel,Productivity,Microsoft Corporation,https://products.office.com,officean@microsoft.com,Everyone,False,True
+47,ANT+ Plugins Service,com.dsi.ant.plugins.antplus,Tools,ANT+,http://thisisant.com,android@thisisant.com,Everyone,False,False
+48,Microsoft PowerPoint: Slideshows and Presentations,com.microsoft.office.powerpoint,Productivity,Microsoft Corporation,https://products.office.com,officean@microsoft.com,Everyone,False,True
+49,ANT Radio Service,com.dsi.ant.service.socket,Communication,ANT+,http://www.thisisant.com/consumer/,android@thisisant.com,Everyone,False,False
+50,Samsung Voice Recorder,com.sec.android.app.voicenote,Tools,"Samsung Electronics Co.,  Ltd.",https://samsung.com,noreply.sec@samsung.com,Everyone,False,False
+51,Google Play Services for AR,com.google.ar.core,Tools,Google LLC,https://developers.google.com/ar/,arcore-support@google.com,Everyone,False,False
+52,Samsung Print Service Plugin,com.sec.app.samsungprintservice,Productivity,HP Inc.,https://www.samsung.com/us/printer/,support@samsungcloudprint.com,Everyone,False,False
+53,Netflix,com.netflix.mediaclient,Entertainment,"Netflix, Inc.",http://www.netflix.com,playstore@netflix.com,Teen,False,True
+54,Secure Folder,com.samsung.knox.securefolder,Business,"Samsung Electronics Co.,  Ltd.",https://samsung.com,secfolder@samsung.com,Everyone,False,False
+55,Briefing,flipboard.boxer.app,News & Magazines,Flipboard,http://www.flipboard.com,play-store-support@flipboard.com,Everyone 10+,True,False
+56,Samsung Health,com.sec.android.app.shealth,Health & Fitness,"Samsung Electronics Co.,  Ltd.",https://www.samsung.com/global/galaxy/apps/samsung-health/,noreply.sec@samsung.com,Everyone,True,False
+57,Google Keep - Notes and Lists,com.google.android.keep,Productivity,Google LLC,https://support.google.com/?p=notes_main,apps-help@google.com,Everyone,False,False
+58,Candy Crush Saga,com.king.candycrushsaga,Casual,King,http://candycrushsaga.com/help/,candycrush.techhelp@king.com,Everyone,True,True
+59,Files by Google,com.google.android.apps.nbu.files,Tools,Google LLC,http://filesgo.google.com/,files-feedback@google.com,Everyone,False,False
+60,Twitter,com.twitter.android,Social,"Twitter, Inc.",https://support.twitter.com/articles/20169915,google-play-emails@twitter.com,Mature 17+,True,False
+61,Google Docs,com.google.android.apps.docs.editors.docs,Productivity,Google LLC,https://support.google.com/docs/?p=android_docs_help,apps-help@google.com,Everyone,False,False
+62,YouTube Music,com.google.android.apps.youtube.music,Music & Audio,Google LLC,https://music.youtube.com,ytmusic-support@google.com,Teen,True,False
+63,YouTube Music,com.google.android.music,Music & Audio,Google LLC,https://music.youtube.com,ytmusic-support@google.com,Teen,True,False
+64,"Dropbox: Cloud Storage, Photo Backup, File Manager",com.dropbox.android,Productivity,"Dropbox, Inc.",https://www.dropbox.com,android-feedback@dropbox.com,Everyone,False,True
+65,Samsung Security Policy Update,com.policydm,Productivity,"Samsung Electronics Co.,  Ltd.",https://samsung.com,sw.upgrade@samsung.com,Everyone,False,False
+66,Clock,com.google.android.deskclock,Tools,Google LLC,http://www.google.com/,android-clock-feedback@google.com,Everyone,False,False
+67,Spotify: Listen to podcasts & find music you love,com.spotify.music,Music & Audio,Spotify Ltd.,https://www.spotify.com,android-support@spotify.com,Teen,True,False
+68,Google Translate,com.google.android.apps.translate,Tools,Google LLC,http://support.google.com/translate,translate-mobile-support@google.com,Everyone,False,False
+69,Samsung Notes,com.samsung.android.app.notes,Productivity,"Samsung Electronics Co.,  Ltd.",https://samsung.com,noreply.sec@samsung.com,Everyone,False,False
+70,Calculator,com.google.android.calculator,Tools,Google LLC,http://www.google.com/,android-calculator-feedback@google.com,Everyone,False,False
