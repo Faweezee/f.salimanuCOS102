@@ -41,7 +41,7 @@ username_entry.pack()
 #Crete password label and entry
 password_label = tk.Label(root, text = "Password :")
 password_label.pack()
-password_entry = tk.Entry(root)
+password_entry = tk.Entry(root, show="*")
 password_entry.pack()
 
 # Create submit button
